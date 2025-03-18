@@ -1,0 +1,25 @@
+.sos {
+  text-align: center;
+}
+.IN1LINE {
+  display: flex;
+  margin: 20px;
+  background-color: rgb(68, 40, 40);
+  border-radius: 5px;
+}
+.IN1LINEBG {
+  display: flex;
+  border-radius: 5px;
+  margin: 20px;
+  background-color: rgb(12, 12, 11);
+}
+p {
+  margin: 0;
+}
+body {
+  border-radius: 10px;
+  background-color: rgb(153, 152, 152);
+}
+h3 {
+  margin: 0;
+}
